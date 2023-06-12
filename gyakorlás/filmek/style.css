@@ -1,0 +1,7 @@
+tbody {
+    border:1px dashed black;
+}
+
+tr:nth-child(even) {
+    background-color: lightgreen;
+}
